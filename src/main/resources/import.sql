@@ -1,0 +1,2 @@
+INSERT INTO account(id,customer_id,product_id,headlines,total_amount)VALUES('AC001','C001','P001','Lucar Capristano',2500.00);
+INSERT INTO account(id,customer_id,product_id,headlines,total_amount)VALUES('AC002','C002','P002','Juan Perez',15000.00);
